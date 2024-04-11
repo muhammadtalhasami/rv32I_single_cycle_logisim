@@ -203,9 +203,10 @@ Contributions to improve the RV32I fetch pipeline microprocessor are welcome! If
 
 To simulate the RV32I single-cycle processor on your local machine, follow these steps:
 
-    Clone the Repository: Clone this GitHub repository to your local machine using the following command:
+Clone the Repository: Clone this GitHub repository to your local machine using the following command:
 
-    bash
+
+
     git clone git@github.com:muhammadtalhasami/rv32I_single_cycle_logisim.git
 
 
