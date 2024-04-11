@@ -188,15 +188,6 @@ FE5FF3EF
 FF5FF3EF
 ```
 
-## Contribution Guidelines
-
-Contributions to improve the RV32I fetch pipeline microprocessor are welcome! If you'd like to contribute, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: git checkout -b feature-name.
-3. Make your changes and commit them with a descriptive message: git commit -m "Description of your changes".
-4. Push your changes to your fork: git push origin feature-name.
-5. Submit a pull request to the main repository's master branch.
 
 
 ## Getting Started
